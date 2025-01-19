@@ -51,6 +51,8 @@ __Step 3: Optimize Database and Set Up Backup Precudures__
 - Monitor Database Logs: Regularly check for slow queries or potential issues that could impact performance.
 
 **Include a Screenshot of the MYSQL Workbench or OS-Ticket database settings page showing backup configurations or database optimization options.**
+
+
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 __Step 4: Test and Validate the OS-Ticket System__

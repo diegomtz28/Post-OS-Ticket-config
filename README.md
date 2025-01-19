@@ -31,7 +31,7 @@ __Step 1:Secure the OS-Ticket Environment__
 - Install SSL Certificate: Set up the HTTPS to ensure secure data transmission.
 - Configure IIS Security Settings: Limit access to sensitive directories and enable required security protocols.
 - Implement FIrewall Rules: Restrict incoming traffic to only necessary ports. 
-
+**Screenshot of IIS manager where you configure the ssl certificates for HTTPS or the bindings page in IIS showing the HTTPS setup.**
 
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
@@ -41,6 +41,7 @@ __Step 2: Customize OS-Ticket Configuration__
 - Adjust ticketing workflows and Fields: Customize the ticketing system to reflect the business, including priorities, SLAs, and custom fields.
 - Define User Roles and Permissions: create roles for staff and define access levels to ensure proper functionality and security.
 
+**Take a screenshot of the Os-Ticket admin dashboard where you configured email notifications, custom ticket fields, or user roles.**
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 
@@ -49,6 +50,7 @@ __Step 3: Optimize Database and Set Up Backup Precudures__
 - Optimize Database Performance: Run optimization queries to maintain fast performance.
 - Monitor Database Logs: Regularly check for slow queries or potential issues that could impact performance.
 
+**Include a Screenshot of the MYSQL Workbench or OS-Ticket database settings page showing backup configurations or database optimization options.**
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 __Step 4: Test and Validate the OS-Ticket System__
@@ -56,4 +58,5 @@ __Step 4: Test and Validate the OS-Ticket System__
 - Verify Email Notifications: Ensure ticket-related emails are sent and received correctly.
 - Review System Logs for Errors: Check IIS and OS-Ticket logs to identify and address potential issues. 
 
+**Provide a screenshot of the OS-Ticket creation poage and a test ticket confirmation, or a log page showing system health**
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>

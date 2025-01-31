@@ -31,7 +31,6 @@ __Step 1:Secure the OS-Ticket Environment__
 - Install SSL Certificate: Set up the HTTPS to ensure secure data transmission.
 - Configure IIS Security Settings: Limit access to sensitive directories and enable required security protocols.
 - Implement FIrewall Rules: Restrict incoming traffic to only necessary ports. 
-**Screenshot of IIS manager where you configure the ssl certificates for HTTPS or the bindings page in IIS showing the HTTPS setup.**
 
 <img src="https://github.com/diegomtz28/Post-OS-Ticket-config/blob/main/SSL%20Certificate.png"/>
 

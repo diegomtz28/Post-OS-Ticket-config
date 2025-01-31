@@ -59,4 +59,4 @@ __Step 4: Test and Validate the OS-Ticket System__
 - Verify Email Notifications: Ensure ticket-related emails are sent and received correctly.
 - Review System Logs for Errors: Check IIS and OS-Ticket logs to identify and address potential issues. 
 
-<img src="https://github.com/diegomtz28/Post-OS-Ticket-config/blob/main/MySQL%20logs%20%26%20perfomance%20monitoring.png"/>
+<img src="https://github.com/diegomtz28/Post-OS-Ticket-config/blob/main/Opening%20a%20new%20ticket.png"/>

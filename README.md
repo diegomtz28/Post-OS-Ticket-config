@@ -49,10 +49,10 @@ __Step 3: Optimize Database and Set Up Backup Precudures__
 - Optimize Database Performance: Run optimization queries to maintain fast performance.
 - Monitor Database Logs: Regularly check for slow queries or potential issues that could impact performance.
 
-**Include a Screenshot of the MYSQL Workbench or OS-Ticket database settings page showing backup configurations or database optimization options.**
 
 
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<img src= "https://github.com/diegomtz28/Post-OS-Ticket-config/blob/main/MySQL%20logs%20%26%20perfomance%20monitoring.png"/>
 
 __Step 4: Test and Validate the OS-Ticket System__
 - Test Ticket Lifecycle: Create and resolve test tickets to verify the system works as expected.

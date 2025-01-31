@@ -40,8 +40,8 @@ __Step 2: Customize OS-Ticket Configuration__
 - Adjust ticketing workflows and Fields: Customize the ticketing system to reflect the business, including priorities, SLAs, and custom fields.
 - Define User Roles and Permissions: create roles for staff and define access levels to ensure proper functionality and security.
 
-**Take a screenshot of the Os-Ticket admin dashboard where you configured email notifications, custom ticket fields, or user roles.**
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<img src="https://github.com/diegomtz28/Post-OS-Ticket-config/blob/main/Configuring%20Smtp.png"/>
 
 
 __Step 3: Optimize Database and Set Up Backup Precudures__

@@ -33,7 +33,7 @@ __Step 1:Secure the OS-Ticket Environment__
 - Implement FIrewall Rules: Restrict incoming traffic to only necessary ports. 
 **Screenshot of IIS manager where you configure the ssl certificates for HTTPS or the bindings page in IIS showing the HTTPS setup.**
 
-<img src="(https://github.com/diegomtz28/Post-OS-Ticket-config/blob/main/SSL%20Certificate.png)"/>
+<img src="https://github.com/diegomtz28/Post-OS-Ticket-config/blob/main/SSL%20Certificate.png"/>
 
 
 __Step 2: Customize OS-Ticket Configuration__
